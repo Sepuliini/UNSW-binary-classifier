@@ -13,11 +13,12 @@ This project develops a binary classification model focused on network intrusion
 - **Recall (Class 1)**: 90.770% - Effective identification of actual attack instances.
 - **F1 Score**: 93.695% - Balanced measure of precision and recall.
 
-### Class-wise Breakdown
+### Class-wise Performance Analysis
 
-    Class 0 (Non-Attacks):
-        Precision: 83%, suggesting a moderate rate of false positives.
-        Recall: 94%, indicating high sensitivity in detecting true non-attack instances.
-    Class 1 (Attacks):
-        Precision: 97%, denoting a high rate of correctly identified attacks.
-        Recall: 91%, confirming the model's effectiveness in capturing attack instances.
+- **Class 0 (Non-Attacks):**
+  - **Precision: 83%** - This suggests a moderate rate of false positives, indicating that while the model is fairly accurate in predicting non-attacks, there are instances where it incorrectly labels attacks as non-attacks.
+  - **Recall: 94%** - Indicates high sensitivity in detecting true non-attack instances. The model is adept at identifying most of the actual non-attack scenarios.
+
+- **Class 1 (Attacks):**
+  - **Precision: 97%** - Denotes a high rate of correctly identified attacks. The model is very effective at pinpointing instances of attacks with minimal false positives.
+  - **Recall: 91%** - Confirms the model's effectiveness in capturing attack instances. It successfully identifies a majority of the actual attacks, though there is some room for improvement in recognizing all attack instances.
