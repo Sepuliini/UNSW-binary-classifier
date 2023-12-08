@@ -1,0 +1,32 @@
+Current configuration 1: {'act': 'relu', 'b_size': 16, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Current configuration 2: {'act': 'relu', 'b_size': 16, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 32, 16, 8, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Current configuration 3: {'act': 'relu', 'b_size': 16, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Current configuration 4: {'act': 'relu', 'b_size': 16, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 32, 16, 8, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Current configuration 5: {'act': 'relu', 'b_size': 32, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Current configuration 6: {'act': 'relu', 'b_size': 32, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 32, 16, 8, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Current configuration 7: {'act': 'relu', 'b_size': 32, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Current configuration 8: {'act': 'relu', 'b_size': 32, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 32, 16, 8, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Current configuration 9: {'act': 'elu', 'b_size': 16, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Current configuration 10: {'act': 'elu', 'b_size': 16, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 32, 16, 8, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Current configuration 11: {'act': 'elu', 'b_size': 16, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Current configuration 12: {'act': 'elu', 'b_size': 16, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 32, 16, 8, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Current configuration 13: {'act': 'elu', 'b_size': 32, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Current configuration 14: {'act': 'elu', 'b_size': 32, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 32, 16, 8, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Current configuration 15: {'act': 'elu', 'b_size': 32, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Current configuration 16: {'act': 'elu', 'b_size': 32, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 32, 16, 8, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+

@@ -1,0 +1,96 @@
+Nykyinen konfiguraatio 1: {'act': 'relu', 'b_size': 16, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 2: {'act': 'relu', 'b_size': 16, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 3: {'act': 'relu', 'b_size': 16, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 24, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 4: {'act': 'relu', 'b_size': 16, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 24, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 5: {'act': 'relu', 'b_size': 16, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 6: {'act': 'relu', 'b_size': 16, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 7: {'act': 'relu', 'b_size': 16, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 24, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 8: {'act': 'relu', 'b_size': 16, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 24, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 9: {'act': 'relu', 'b_size': 32, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 10: {'act': 'relu', 'b_size': 32, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 11: {'act': 'relu', 'b_size': 32, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 24, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 12: {'act': 'relu', 'b_size': 32, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 24, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 13: {'act': 'relu', 'b_size': 32, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 14: {'act': 'relu', 'b_size': 32, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 15: {'act': 'relu', 'b_size': 32, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 24, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 16: {'act': 'relu', 'b_size': 32, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 24, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 17: {'act': 'relu', 'b_size': 64, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 18: {'act': 'relu', 'b_size': 64, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 19: {'act': 'relu', 'b_size': 64, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 24, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 20: {'act': 'relu', 'b_size': 64, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 24, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 21: {'act': 'relu', 'b_size': 64, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 22: {'act': 'relu', 'b_size': 64, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 23: {'act': 'relu', 'b_size': 64, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 24, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 24: {'act': 'relu', 'b_size': 64, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 24, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 25: {'act': 'elu', 'b_size': 16, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 26: {'act': 'elu', 'b_size': 16, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 27: {'act': 'elu', 'b_size': 16, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 24, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 28: {'act': 'elu', 'b_size': 16, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 24, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 29: {'act': 'elu', 'b_size': 16, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 30: {'act': 'elu', 'b_size': 16, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 31: {'act': 'elu', 'b_size': 16, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 24, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 32: {'act': 'elu', 'b_size': 16, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 24, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 33: {'act': 'elu', 'b_size': 32, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 34: {'act': 'elu', 'b_size': 32, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 35: {'act': 'elu', 'b_size': 32, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 24, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 36: {'act': 'elu', 'b_size': 32, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 24, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 37: {'act': 'elu', 'b_size': 32, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 38: {'act': 'elu', 'b_size': 32, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 39: {'act': 'elu', 'b_size': 32, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 24, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 40: {'act': 'elu', 'b_size': 32, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 24, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 41: {'act': 'elu', 'b_size': 64, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 42: {'act': 'elu', 'b_size': 64, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 43: {'act': 'elu', 'b_size': 64, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 24, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 44: {'act': 'elu', 'b_size': 64, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 24, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 45: {'act': 'elu', 'b_size': 64, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 46: {'act': 'elu', 'b_size': 64, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 47: {'act': 'elu', 'b_size': 64, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 24, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+
+Nykyinen konfiguraatio 48: {'act': 'elu', 'b_size': 64, 'dout': [0.4, 0.4, 0.4, 0.4, 0.4], 'epochs': 24, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
+

@@ -1,0 +1,1 @@
+1: {'act': 'elu', 'b_size': 32, 'dout': [0.0, 0.0, 0.0, 0.0, 0.0], 'epochs': 16, 'init': 'he_uniform', 'layers': [64, 42, 24, 14, 4], 'lr': 0.0001, 'noise': 0.0, 'num_classes': 1, 'reg': None, 'test_pct': 0.1} 
